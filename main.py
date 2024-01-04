@@ -2,7 +2,7 @@ from sys import argv
 
 # Steps:
 # 1. Replace [ __ ] with curse words
-# 2. Add auto-puncutation
+# 2. Add auto-punctuation
 # 3. Create caption groups
 
 from guess_cursing import replaceSwearTags
